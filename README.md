@@ -42,11 +42,11 @@ Front-end developer fond of algorithms 👨‍💻, I like exercising 💪 and l
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kakalanp&show_icons=true&theme=dracula" />
 </a>
 </a>
-<a href="https://github.com/kakalanp/github-readme-stats">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kakalanp&theme=dracula" />
-</a>
 <a href="https://github.com/kakalanp/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakalanp&layout=compact&theme=dracula" />
+</a>
+<a href="https://github.com/kakalanp/github-readme-stats">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kakalanp&theme=dracula" />
 </a>
 </div>
 <br>
