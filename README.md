@@ -5,7 +5,9 @@
 
 # Hello there, I'm Joaquín! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Monaco&duration=4000&color=FF69B4&multiline=true&width=800&height=60&lines=Front-end+developer+fond+of+algorithms+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%2C+I+like+exercising+%F0%9F%92%AA+;and+love+to+learn+new+things+%F0%9F%A4%93!)](https://git.io/typing-svg)
+<a alt="kakalanp's GitHub Profile Description" href="https://github.com/kakalanp" rel="noreferrer" target="_blank">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Monaco&duration=4000&color=FF69B4&multiline=true&width=800&height=60&lines=Front-end+developer+fond+of+algorithms+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%2C+I+like+exercising+%F0%9F%92%AA+;and+love+to+learn+new+things+%F0%9F%A4%93!">
+</a>
 
 👨‍🎓 Currently studying at Microverse.
 
