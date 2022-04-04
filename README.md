@@ -11,7 +11,7 @@
 
 👨‍🎓 Currently studying at Microverse.
 
-🌱 Learning JavaScript for the time being.
+🌱 Learning Redux for the time being.
 
 🤔 New ideas for projects are always welcome!
 
