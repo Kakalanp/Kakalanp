@@ -29,6 +29,8 @@
 <img align="left" alt="Git" width="26px" src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="HTML5" width="26px" src="https://github.com/get-icon/geticon/raw/master/icons/heroku-icon.svg" />
+<img align="left" alt="HTML5" width="26px" src="https://github.com/get-icon/geticon/raw/master/icons/netlify.svg" />
 
 <img align="left" alt="HTML5" width="26px" src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" />
 <img align="left" alt="CSS3" width="26px" src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" />
@@ -36,8 +38,10 @@
 <img align="left" alt="Webpack" width="26px" src="https://github.com/get-icon/geticon/raw/master/icons/webpack.svg" />
 <img align="left" alt="Jest" width="26px" src="https://github.com/get-icon/geticon/raw/master/icons/jest.svg" />
 <img align="left" alt="React" width="26px" src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" />
+<img align="left" alt="React" width="26px" src="https://github.com/get-icon/geticon/raw/master/icons/react-router.svg" />
 <img align="left" alt="Redux" width="26px" src="https://github.com/get-icon/geticon/raw/master/icons/redux.svg" />
 <img align="left" alt="Postgresql" width="26px" src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" />
+<img align="left" alt="Postgresql" width="26px" src="https://github.com/get-icon/geticon/raw/master/icons/ruby.svg" />
 
 
 <br>
