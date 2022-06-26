@@ -47,6 +47,7 @@
 <img align="left" alt="Redux" width="26px" src="https://github.com/get-icon/geticon/raw/master/icons/redux.svg" />
 <img align="left" alt="Postgresql" width="26px" src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" />
 <img align="left" alt="Ruby" width="26px" src="https://github.com/get-icon/geticon/raw/master/icons/ruby.svg" />
+<img align="left" alt="Rails" width="26px" src="https://github.com/get-icon/geticon/raw/master/icons/rails.svg" />
 
 
 <br>
