@@ -48,6 +48,8 @@
 <img align="left" alt="Postgresql" width="26px" src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" />
 <img align="left" alt="Ruby" width="26px" src="https://github.com/get-icon/geticon/raw/master/icons/ruby.svg" />
 <img align="left" alt="Rails" width="26px" src="https://github.com/get-icon/geticon/raw/master/icons/rails.svg" />
+<img align="left" alt="Sendgrid" width="26px" src="https://github.com/get-icon/geticon/raw/master/icons/sendgrid.svg" />
+<img align="left" alt="Bootstrap" width="26px" src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" />
 
 
 <br>
