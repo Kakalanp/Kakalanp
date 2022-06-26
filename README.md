@@ -15,7 +15,7 @@
 
 🤔 New ideas for projects are always welcome!
 
-💬 Let's chat about anything
+💬 Let's chat about anything!
 
 ### 📫 Write me an e-mail!
 
