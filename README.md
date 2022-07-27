@@ -50,7 +50,7 @@
 <img align="left" alt="Rails" width="26px" src="https://github.com/get-icon/geticon/raw/master/icons/rails.svg" />
 <img align="left" alt="Sendgrid" width="26px" src="https://github.com/get-icon/geticon/raw/master/icons/sendgrid.svg" />
 <img align="left" alt="Bootstrap" width="26px" src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" />
-
+<img align="left" alt="Tailwind" width="26px" src="https://github.com/get-icon/geticon/raw/master/icons/tailwindcss-icon.svg" />
 
 <br>
 <br>
