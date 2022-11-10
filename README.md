@@ -9,9 +9,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Monaco&duration=4000&color=FF69B4&multiline=true&width=800&height=60&lines=Full-stack+developer+fond+of+algorithms+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%2C+I+like+exercising+%F0%9F%92%AA+,+;and+love+to+learn+new+things+%F0%9F%A4%93!">
 </a>
 
-👨‍🎓 Currently studying at Microverse.
+💼 Currently working at Tranzact.
 
-🌱 Learning Ruby on Rails for the time being.
+⚙️ Working on some small side-projects on my free time
 
 🤔 New ideas for projects are always welcome!
 
